@@ -46,11 +46,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinaygitcse1&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=vinaygitcse1&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinaygitcse1&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinaygitcse1&theme=react-dark&hide_border=true&bg_color=0d1117" />
 </p>
 
 <p align="center">
