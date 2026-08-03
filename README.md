@@ -14,7 +14,7 @@
 ### Let me tell you a bit about myself 🔥
 
 - 🌱 I'm currently exploring RAG systems, Deep Learning, and Full-Stack (MERN) development
-- 🔬 I'm doing research at IIT Guwahati on AI-generated text detection
+- 🔬 I'm completed research at IIT Guwahati on AI-generated text detection
 - 👯 I'm looking to collaborate on Full Stack Web Development & ML projects
 - 🤝 I'm looking for help with advanced DSA and system design
 - 🏆 GATE Qualified **twice**
