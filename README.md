@@ -49,8 +49,6 @@
   <img src="https://streak-stats.demolab.com/?user=vinaygitcse1&theme=radical&hide_border=true" />
 </p>
 
-
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vinaygitcse1&theme=radical&no-frame=true&row=1&column=7" />
 </p>
